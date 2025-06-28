@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vulnerable-villagers",
+  "name": "Vulnerable Villagers",
+  "description": "Makes hostile mobs attack villagers and villagers run away from them for a more realistic survival experience.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["michaelsebero"],
+  "credits": "Created by michaelsebero",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
